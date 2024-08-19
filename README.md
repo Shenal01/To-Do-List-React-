@@ -3,6 +3,9 @@
 <img src="Screenshot 2024-08-19 175013.png">
 <img src="Screenshot 2024-08-19 174956.png">
 
+## Shortcuts
+use "rafc" --> to build a react object ;-]
+
 ## Available Scripts
 
 In the project directory, you can run:
